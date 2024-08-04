@@ -21,7 +21,7 @@ export default function Navigation () {
 
     return (
     <nav className={`site-navigation ${menuActive && 'active'}`} role="navigation">
-        <span className="menu-title">Recipe Blog</span>
+        <span className="menu-title">Food Blog</span>
         <div
             className="menu-content-container"
         >
@@ -33,15 +33,8 @@ export default function Navigation () {
                 ))
             }
             </ul>
-            <div className="menu-avatar-container">
-               
-                <span className="menu-avatar-name"></span>
-            </div>
         </div>
-        <i 
-            className="icon ionicons ion-ios-menu"
-            onClick={(ev) => setMenuActive(!menuActive)}
-        />
+        
     </nav>
   )
 }

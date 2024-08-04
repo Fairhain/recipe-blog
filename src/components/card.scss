@@ -1,10 +1,10 @@
 .card {
     display: flex;  
-    position: absolute;
+    position: relative;
     justify-content: space-between;
     overflow: hidden;
     
-    top: 100px;
+    margin-top: -400px;
     li {
         display: inline-block;
         margin: 20px 20px 20px 20px ;
