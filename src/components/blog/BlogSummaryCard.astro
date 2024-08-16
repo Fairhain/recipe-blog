@@ -1,0 +1,33 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+import SummaryCard from '../generic/SummaryCard.astro';
+import Button from '../parts/Button.astro';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+---
+
+<SummaryCard
+  title={post.data.title}
+  description={post.data.description}
+>
+  <div class='flex justify-end my-4'>
+    <Button href={`/blog/${post.slug}/`}>Read post &rarr;</Button>
+  </div>
+
+  <div class='hidden sm:inline-block'>
+    <div class='flex justify-between items-center'>
+      {
+        post.data.draft && (
+          <span class='bg-green rounded-full border-2 py-1 px-4 text-sm border-black card-shadow'>
+            Draft
+          </span>
+        )
+      }
+    </div>
+  </div>
+</SummaryCard>

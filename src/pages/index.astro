@@ -1,20 +1,16 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import Navigation from '../components/navigation/navigation';
-import Card from '../components/card';
-import Background from '../components/backgroundimage/background';
+import Layout from "../layouts/Layout.astro"
+import Card from "../components/parts/Card.astro"
+import Button from "../components/parts/Button.astro"
+import RecentBlogPosts from "../components/generic/RecentBlogPosts.astro"
 ---
 
-<Layout title="Welcome to Astro.">
-	
-	<Navigation>
-		
-	</Navigation>
-	<Background></Background>
-	<Card></Card>
-	
+<Layout
+  title='Home'
+  pageTitle='Brutal Theme | Home'
+  description='Brutal is a minimalistic, neobrutalism theme for Astro.'
+>
+  <main class='bg-pink p-6'>
+    <RecentBlogPosts />
+  </main>
 </Layout>
-
-<style lang="scss">
-	
-</style>
