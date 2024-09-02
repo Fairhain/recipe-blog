@@ -17,7 +17,8 @@ Take 2 slices of sourdough bread. Spread mayonnaise on one side of each slice an
 <br/>
 After its browned, take it off the pan and spread mayonnaise on the other side. Slap one on the pan again, but leave the heat off.  
 <br/>
-Put some cheese (I used meunster and swiss, but you can use whatever you want), some mustard, and salt on the slice, and then close the sandwich with the other.<br/>
+Put some cheese (I used meunster and swiss, but you can use whatever you want), some mustard, and salt on the slice, and then close the sandwich with the other.   
+<br/>
 Cook on both sides until the cheese is melted and the bread is toasted.  
 <br/>
 Enjoy! 
