@@ -10,15 +10,15 @@ layout: '../../layouts/blogpost.astro'
 
 ## **Intro**
 
-I went to Europe over the summer, visiting London, Paris, Rome, Venice, and Florence. As a result, I got to try a lot of the food there. Here are my thoughts of the food in Europe.
+This school year I'm stuck at school for 7:15 all the way to 3:17. Within this period of time, I'm fed a banana and a slice of cardboard pizza, or something else along those lines. As a result, the moment I get home, I need to consume. I have two choices, make something quick for myself, or eat leftovers. Since my mom started making very little for lunch now that I'm not there, I end up just making something for myself.  
 
-## **London**
+Lately that something has been Grilled Cheese. Which I've been refining and perfecting over a few weeks. 
 
-Starting with London, a place notorious for its sad looking beans on toast. I personally thought it was okay, but it wasn't all that great either. Comparatively to other dishes, I have no idea why the British people obsess over it that much. A lot of the British restaurants just felt kind of plain and boring, so we often opted for other cuisines. My favorite meal in London was actually a random Filipino restaurant near our hotel. Indian cuisine was also very common there. All in all, London kind of just felt like the US but with Nandos, more Indians, and pubs.
+Now, this isn't some basic-ass grilled cheese, but it ain't fancy cause I don't got the facilities for that. Here's my recipe:
 
-## **France**
-
-Moving on to France. I came in with low expectations because I had just watched a Matthew Li video about how French food is not fancy at all and that it is just a false pretense stemming from their invention of restaurants. However, it definitely was better than the traditional English food in London. It was a little harder because of the language barrier, like once I accidentally ordered a raw beef dish, which made my tummy feel weird the following day. The only other problem I had was that we ran out of things to eat on the menu. Eating two meals a day at those restaurants eventually led to us not really knowing what to eat, so we ended up going to some Italian restaurants in the area.
-
-
+  1. Take 2 slices of sourdough bread. Spread mayonnaise on one side of each slice and toast them. 
+  2. After its browned, take it off the pan and spread mayonnaise on the other side. Slap one on the pan again, but leave the heat off. 
+  3. Put some cheese (I used meunster and swiss, but you can use whatever you want), some mustard, and salt on the slice, and then close the sandwich with the other.
+  4. Cook on both sides until the cheese is melted and the bread is toasted.
+  5. Enjoy!
 
