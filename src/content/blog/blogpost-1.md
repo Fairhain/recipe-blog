@@ -13,6 +13,10 @@ This school year I'm stuck at school from 7:15 to 3:17. Within this period of ti
    <br/>
 Lately that something has been Grilled Cheese. Which I've been refining and perfecting over a few weeks.  
 <br/>
+Grilled cheese is such an awesome food. Its so easy to make, all you really need for a satisfactory grilled cheese is two slices of bread and some cheese. But if you put a little more effort into it, it literally is the pinnacle of lazy foods. It puts together so quick, close to 0 cooking skill, and tastes amazing. The only downside I would note is that it isn't the healthiest thing in the world. I have really sensitive and oily skin, so everytime I eat a grilled cheese, my face gets all oily and shiny, which is not ideal.   
+<br/>
+**RECIPE**   
+<br/>
 Take 2 slices of sourdough bread. Spread mayonnaise on one side of each slice and toast them.  
 <br/>
 After its browned, take it off the pan and spread mayonnaise on the other side. Slap one on the pan again, but leave the heat off.  
