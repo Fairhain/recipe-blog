@@ -2,15 +2,20 @@
 import Layout from "../layouts/Layout.astro"
 import Card from "../components/parts/Card.astro"
 import Button from "../components/parts/Button.astro"
-import RecentBlogPosts from "../components/generic/RecentBlogPosts.astro"
+import RecentBlogPostsWrapper from "../components/generic/RecentBlogPostsWrapper";
+import { getAuth, onAuthStateChanged, type User } from "firebase/auth";
+import { useState } from "react";
+import {AuthProvider} from '../components/login/AuthContext';
 ---
 
 <Layout
   title='Home'
-  pageTitle='Brutal Theme | Home'
-  description='Brutal is a minimalistic, neobrutalism theme for Astro.'
+  pageTitle='Home'
+  description='afjeoijfoe'
 >
-  <main class='bg-pink p-6'>
-    <RecentBlogPosts />
-  </main>
+
+    <AuthProvider>
+      <RecentBlogPostsWrapper count={6} />
+    </AuthProvider>
+  
 </Layout>
