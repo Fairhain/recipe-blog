@@ -20,7 +20,10 @@ const RecentBlogPostsWrapper: React.FC<Props> = ({ count }) => {
   }, [count]); // Re-run the effect if `count` prop changes
 
   return (
-    <RecentBlogPosts posts={posts} count={count} user={user} />
+    <div>
+      
+    </div>
+    //<RecentBlogPosts posts={posts} count={count} user={user} />
   );
 };
 

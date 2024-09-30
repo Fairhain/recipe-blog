@@ -6,6 +6,7 @@ import RecentBlogPostsWrapper from "../components/generic/RecentBlogPostsWrapper
 import { getAuth, onAuthStateChanged, type User } from "firebase/auth";
 import { useState } from "react";
 import {AuthProvider} from '../components/login/AuthContext';
+import RecentBlogPosts from "../components/generic/RecentBlogPosts.astro";
 ---
 
 <Layout
@@ -15,7 +16,7 @@ import {AuthProvider} from '../components/login/AuthContext';
 >
 
     <AuthProvider>
-      <RecentBlogPostsWrapper count={6} />
+      <RecentBlogPosts count={6} />
     </AuthProvider>
   
 </Layout>

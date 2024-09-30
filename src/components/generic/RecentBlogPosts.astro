@@ -1,16 +1,25 @@
 ---
+import { getCollection } from 'astro:content';
 import BlogList from '../blog/BlogList.astro';
 import Card from '../parts/Card.astro';
 import Button from '../parts/Button.astro';
-const { posts, count, user } = Astro.props;
+interface Props {
+  count?: number;
+}
+
+const { count } = Astro.props;
+
+const posts = await getCollection('blog').then((posts) =>
+  posts.reverse().slice(0, count ?? 3)
+);
 ---
 
 <div>
-  {user ? (
+  <!-- {user ? (
     <p>Welcome {user.email}</p>
   ) : (
     <p> Welcome Guest</p>
-  )}
+  )} -->
   <section class="mt-8">
     <Card>
       <div class="flex justify-between items-start">
